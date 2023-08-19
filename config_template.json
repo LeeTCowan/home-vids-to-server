@@ -1,0 +1,10 @@
+{
+    "phone_video_directory": "/path/to/phone/videos",
+    "file_types": [".mp4", ".avi"],
+    "server": {
+      "ip": "192.168.1.1",
+      "username": "user",
+      "private_key_path": "/path/to/private/key",
+      "processed_video_directory": "/path/to/processed/videos"
+    }
+  }
